@@ -1,5 +1,4 @@
-# CodeTrove | Collection of Code Snippets that I deem High Value. 
-
+# CodeTrove | Collection of High Value Code Snippets
 
 ## Description:
 So many fine pieces of code have alreadybeen written. Stand on the shoulders of the giants before you.
